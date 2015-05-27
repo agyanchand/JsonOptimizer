@@ -1,0 +1,38 @@
+{
+  "name": "JsonOptimizer",
+  "version": "1.0.0",
+  "description": "JSON Optimizer Library",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^2.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agyanchand/JsonOptimizer.git"
+  },
+  "keywords": [
+    "JSON",
+    "JS",
+    "Optimizer",
+    "Encode",
+    "Decode",
+    "Encrypter",
+    "Decrypter"
+  ],
+  "author": "Avishek Gyanchand <avishekgc22@gmail.com> (https://agyanchand.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agyanchand/JsonOptimizer/issues"
+  },
+  "homepage": "https://github.com/agyanchand/JsonOptimizer"
+}
